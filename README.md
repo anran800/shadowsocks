@@ -1,0 +1,2 @@
+# shadowsocks
+shadowsocks for tcent
